@@ -18,6 +18,8 @@ Chronicle is a free World of Warcraft **Retail (Midnight)** addon by **jonas_gam
 
 **Chronicle Companion for Windows** adds automatic local synchronization between selected WoW licenses **on the same PC**. It supports a shared main settings profile and optional automatic synchronization, with a separate Diagnostics view.
 
+**Compatibility note:** To ensure all features and reliable synchronization, keep both the Chronicle addon and Chronicle Companion up to date.
+
 - **Local only:** the embedded API listens on `127.0.0.1:8765`.
 - **No cloud account:** neither a website nor an external server is required.
 - **Your choice:** enable only the WoW licenses you want to include.
@@ -50,6 +52,8 @@ Historical Mythic+ runs and raid kill totals depend on data supplied by Blizzard
 Chronicle ist ein kostenloses WoW-Retail-Addon mit Großer Schatzkammer, Pflicht- und optionalen Wochenzielen, Charaktergruppen, Mythic+-Saisonhistorie und Raidstatistiken. Es funktioniert vollständig ohne Companion.
 
 Der **optionale Chronicle Companion** für Windows 10/11 (64 Bit) synchronisiert Daten zwischen ausgewählten WoW-Lizenzen **auf demselben PC**. Die integrierte API arbeitet nur lokal (`127.0.0.1:8765`). Es gibt keine benötigte Website oder Cloud und kein externes Benutzerkonto. Nach dem Sync werden die Daten beim Login oder `/reload` übernommen. Die geprüften Windows-Downloads erscheinen hier unter **Releases**, sobald sie veröffentlicht wurden.
+
+**Kompatibilitätshinweis:** Für den vollen Funktionsumfang und eine zuverlässige Synchronisierung bitte sowohl das Chronicle-Addon als auch den Chronicle Companion aktuell halten.
 
 **Installation:** Addon über CurseForge installieren; anschließend optional die Companion-ZIP aus den GitHub-Releases entpacken, EXE starten, Lizenzen auswählen und die Einrichtung durchführen.
 
